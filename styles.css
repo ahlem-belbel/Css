@@ -1,0 +1,53 @@
+/* Importation de la police Roboto de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Appliquer la police Roboto à tout le document */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(199, 220, 236);
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+h1,h2,h3{
+    color: blue;
+    text-decoration: underline;
+}
+#pr {
+    text-align: center;
+    text-decoration: ;
+}
+#video{
+    align-self: center;
+}
+#contact{
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
+#work{
+    text-align: center;
+}
+#resume{
+    text-align: center;
+}
